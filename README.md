@@ -11,7 +11,7 @@ xiaoyao-cvs-plugin的体力背景图库
 存放位置:
 
 ```
-Yunzai-Bot/plugins/xiaoyao-cvs-plugin/dailyNote/Template
+Yunzai-Bot/plugins/xiaoyao-cvs-plugin/resources/dailyNote/Template
 ```
 
 #### 版权声明
