@@ -1,37 +1,26 @@
 # DailyNote Template image for xiaoyao-cvs-plugin
 
-#### 介绍
-适用于Yunzai-Bot的附属插件xiaoyao-cvs-plugin的体力背景模板
+#### 用途介绍
+xiaoyao-cvs-plugin的体力背景图库
 
-#### 软件架构
-软件架构说明
+#### 图库说明
+此库提供由我本人(曉K)制作的背景图第二版，需搭配xiaoyao-cvs-plugin食用
 
+#### 食用方法
+下载压缩包或者拉取git后把对应的图与Template合并覆盖即可
+存放位置:
 
-#### 安装教程
+```
+Yunzai-Bot/plugins/xiaoyao-cvs-plugin/dailyNote/Template
+```
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 版权声明
+图片仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景
 
-#### 使用说明
+#### Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### Miao-plugin：[Gitee](https://gitee.com/yoimiya-kokomi/miao-plugin) & [Github](https://github.com/yoimiya-kokomi/miao-plugin)
 
-#### 参与贡献
+#### xiaoyao-cvs-plugin：[Gitee](https://gitee.com/Ctrlcvs/xiaoyao-cvs-plugin) & [Github](https://github.com/Ctrlcvs/xiaoyao-cvs-plugin)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### Yunzai-Bot插件库：[Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
