@@ -8,8 +8,17 @@ xiaoyao-cvs-plugin的体力背景图库
 
 #### 食用方法
 下载压缩包或者拉取git后把对应的图与Template合并覆盖即可
-存放位置:
 
+#### 使用Github
+```
+git clone https://github.com/SmallK111407/BJT-Template.git
+```
+#### 使用Gitee
+```
+暂无
+```
+
+#### 存放位置:
 ```
 Yunzai-Bot/plugins/xiaoyao-cvs-plugin/resources/dailyNote/Template
 ```
