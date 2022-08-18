@@ -15,7 +15,7 @@ git clone https://github.com/SmallK111407/BJT-Template.git
 ```
 #### 使用Gitee
 ```
-暂无
+git clone https://gitee.com/SmallK111407/BJT-Template.git
 ```
 
 #### 存放位置:
