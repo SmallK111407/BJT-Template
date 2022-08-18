@@ -7,14 +7,13 @@ xiaoyao-cvs-plugin的体力背景图库
 此库提供由我本人(曉K)制作的背景图第二版，需搭配xiaoyao-cvs-plugin食用
 
 #### 食用方法
-下载压缩包或者拉取git后把对应的图与Template合并覆盖即可
+下载压缩包或者拉取git后把BJT-Template/Template与图鉴插件内Template合并覆盖即可
 
-#### 使用Github
+#### 下载方法
 ```
+使用Github
 git clone https://github.com/SmallK111407/BJT-Template.git
-```
-#### 使用Gitee
-```
+使用Gitee
 git clone https://gitee.com/SmallK111407/BJT-Template.git
 ```
 
