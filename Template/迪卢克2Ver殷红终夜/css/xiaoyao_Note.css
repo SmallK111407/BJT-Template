@@ -200,6 +200,7 @@
 	font-size: 20px;
 	/* color: #d9766c; */
 	font-family: "HYWenHei";
+	text-shadow: 0 0 5px #ee2b2b,0 0 5px #ee2b2b,0 0 5px #ee2b2b,0 0 5px #ee2b2b;	/* //设置发光效果 */
 	text-align: center;
 	width: 200px;
 }
