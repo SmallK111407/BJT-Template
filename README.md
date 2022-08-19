@@ -4,14 +4,18 @@
 xiaoyao-cvs-plugin的体力背景图库
 
 #### 图库说明
+```
 此库提供由我本人(曉K)制作的背景图第二版，需搭配xiaoyao-cvs-plugin食用
 库内文件夹Template为原神实装的角色体力模板背景图
 Template2是未实装或其他类型的体力模板背景图
 可自行斟酌使用
+```
 
 #### 食用方法
+```
 下载压缩包或者拉取git后把BJT-Template/Template与图鉴插件内Template合并覆盖即可
 若需用到Template2文件夹内背景图,请将Template2单独拉出来重命名为Template再进行合并
+```
 
 #### 下载方法
 ```
