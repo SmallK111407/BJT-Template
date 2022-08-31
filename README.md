@@ -34,6 +34,11 @@ Yunzai-Bot/plugins/xiaoyao-cvs-plugin/resources/dailyNote/Template
 |曉K|1509293009|Template|
 |逍遥|1749245576|Template2|
 
+#### 效果演示
+
+曉K
+![image](https://github.com/SmallK111407/img-folder/blob/main/ys1.png)
+
 #### 版权声明
 图片仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景
 
