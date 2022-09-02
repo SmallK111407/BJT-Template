@@ -35,6 +35,7 @@ Yunzai-Bot/plugins/xiaoyao-cvs-plugin/resources/dailyNote/Template
 |逍遥|1749245576|Template2|
 
 #### 交流群号：[920929297](https://jq.qq.com/?_wv=1027&k=x1lZFEQ2)
+#### 赞助支持：[爱发电](https://afdian.net/a/SunRyK/plan)
 
 #### 版权声明
 图片仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景
