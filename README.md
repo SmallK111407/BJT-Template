@@ -34,18 +34,21 @@ Yunzai-Bot/plugins/xiaoyao-cvs-plugin/resources/dailyNote/Template
 |曉K|1509293009|Template|
 |逍遥|1749245576|Template2|
 
-#### 交流群号：[920929297](https://jq.qq.com/?_wv=1027&k=x1lZFEQ2)
-#### 赞助支持：[爱发电](https://afdian.net/a/SunRyK)
-
-#### 版权声明
+#### 版权免责声明
 图片仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景
 
-#### Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
+#### 项目地址
+* Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
 
-#### Miao-plugin：[Gitee](https://gitee.com/yoimiya-kokomi/miao-plugin) & [Github](https://github.com/yoimiya-kokomi/miao-plugin)
+* Miao-plugin：[Gitee](https://gitee.com/yoimiya-kokomi/miao-plugin) & [Github](https://github.com/yoimiya-kokomi/miao-plugin)
 
-#### xiaoyao-cvs-plugin：[Gitee](https://gitee.com/Ctrlcvs/xiaoyao-cvs-plugin) & [Github](https://github.com/Ctrlcvs/xiaoyao-cvs-plugin)
+* xiaoyao-cvs-plugin：[Gitee](https://gitee.com/Ctrlcvs/xiaoyao-cvs-plugin) & [Github](https://github.com/Ctrlcvs/xiaoyao-cvs-plugin)
 
-#### 背景图-BJT：[Gitee](https://gitee.com/cv-hunag/BJT) & [Github](https://github.com/cv-hunag/BJT)
+* 背景图-BJT：[Gitee](https://gitee.com/cv-hunag/BJT) & [Github](https://github.com/cv-hunag/BJT)
 
-#### Yunzai-Bot插件库：[Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
+* Yunzai-Bot插件库：[Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
+
+#### 其他
+* 最后再求一个star~，您的支持是我们维护本项目的动力
+* 交流群号：[920929297](https://jq.qq.com/?_wv=1027&k=x1lZFEQ2)
+* 赞助支持：[爱发电](https://afdian.net/a/SunRyK)
