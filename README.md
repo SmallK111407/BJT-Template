@@ -28,6 +28,10 @@ git clone https://gitee.com/SmallK111407/BJT-Template.git
 ```
 Yunzai-Bot/plugins/xiaoyao-cvs-plugin/resources/dailyNote/Template
 ```
+#### 使用示例
+![image](https://github.com/SmallK111407/img-folder/blob/main/resources/ys1.png)
+![image](https://github.com/SmallK111407/img-folder/blob/main/resources/ys2.png)
+
 #### 作者列表(已授权转载搬运)
 | 作者 | QQ | 所属背景图文件夹 |
 | --- | --- | --- |
@@ -49,6 +53,6 @@ Yunzai-Bot/plugins/xiaoyao-cvs-plugin/resources/dailyNote/Template
 * Yunzai-Bot插件库：[Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
 
 #### 其他
-* 最后再求一个star~，您的支持是我们维护本项目的动力
+* 最后再求一个star~，您的支持是维护本项目的动力
 * 交流群号：[920929297](https://jq.qq.com/?_wv=1027&k=x1lZFEQ2)
 * 赞助支持：[爱发电](https://afdian.net/a/SunRyK)
