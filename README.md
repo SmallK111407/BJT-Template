@@ -29,8 +29,8 @@ git clone https://gitee.com/SmallK111407/BJT-Template.git
 Yunzai-Bot/plugins/xiaoyao-cvs-plugin/resources/dailyNote/Template
 ```
 #### 使用示例
-![image](https://github.com/SmallK111407/img-folder/blob/main/resources/ys1.png)
-![image](https://github.com/SmallK111407/img-folder/blob/main/resources/ys2.png)
+![image](https://gitee.com/SmallK111407/img-folder2/blob/main/resources/ys1.png)
+![image](https://gitee.com/SmallK111407/img-folder2/blob/main/resources/ys2.png
 
 #### 作者列表(已授权转载搬运)
 | 作者 | QQ | 所属背景图文件夹 |
