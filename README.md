@@ -14,6 +14,7 @@ xiaoyao-cvs-plugin的体力背景图库
 ```
 下载压缩包或者拉取git后把BJT-Template/Template与图鉴插件内Template合并覆盖即可
 若需用到Template2文件夹内背景图,请将Template2单独拉出来重命名为Template再进行合并
+Template3同上
 ```
 
 #### 下载方法
