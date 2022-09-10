@@ -6,7 +6,7 @@ xiaoyao-cvs-plugin的体力背景图库
 #### 图库说明
 ```
 此库提供由我本人(曉K)及其他人授权转载制作的背景图第二版，需搭配xiaoyao-cvs-plugin食用
-目前库中:Template为曉K制作的背景图;Template2为逍遥制作的背景图
+目前库中:Template为曉K制作的背景图;Template2为逍遥制作的背景图;Template3为地球生物制作的背景图
 可自行斟酌使用
 ```
 
@@ -34,6 +34,7 @@ Yunzai-Bot/plugins/xiaoyao-cvs-plugin/resources/dailyNote/Template
 | --- | --- | --- |
 |曉K|1509293009|Template|
 |逍遥|1749245576|Template2|
+|地球生物|1142407413|Template3|
 
 #### 版权免责声明
 图片仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景
