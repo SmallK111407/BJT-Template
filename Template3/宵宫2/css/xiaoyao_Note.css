@@ -1,0 +1,296 @@
+﻿@font-face {
+	font-family: HYWenHei;
+	src: url(../../../../font/HYWenHei.ttf);
+}
+
+@font-face {
+	font-family: MiSans-Regular;
+	src: url(../../../../font/MiSans-Regular.ttf);
+}
+
+@font-face {
+	font-family: MiSans-Medium;
+	src: url(../../../../font/MiSans-Medium.ttf);
+}
+
+@font-face {
+	font-family: HYWenHei-HEW;
+	src: url(../../../../font/HYWenHei-HEW.ttf);
+}
+
+#container {
+	
+	height: 905px;
+	width: 1508px;
+	/* background-color: rgba(0, 0, 0, 0.5); */
+	 color: #fff;	/*全局字体样式 */
+	/* -webkit-text-stroke: 0.1px #a033c9; /*字体样式描边色 */ 
+}
+/**
+ * 这个是派遣头像位置
+ */
+.icon {
+	vertical-align: middle;
+	display: inline-block;
+	position: absolute;
+	margin-left: -5px;
+	top: -15px;
+	left: 2px;
+}
+/**
+ * 设置派遣的距离
+ */
+.li {
+	top: 310px;
+	left: 350px;
+	width: 30%;    /* 派遣和字的距离 */
+	
+	position: relative;
+	margin-bottom: 1px;   /* 头像上下距离 */
+}
+.left_model {
+	
+	width: calc(50% - 136px);
+	position: relative;
+	padding: 75px 0;
+	padding-left: 100px;
+	float: left;
+}
+
+.left_model img {
+	width: 1px;
+	height: 1px;
+	vertical-align: middle;
+
+}
+
+.div .kb {
+	display: iblock;
+	vertical-align: middle;
+	
+}
+
+
+
+
+
+
+
+
+
+.title {
+	font-size: 0px;
+	font-family: "MiSans-Regular";
+	color: #000000; 
+	display: block;
+	text-align: left;
+	
+	src: url("{{_res_path}}font/MiSans-Regular.ttf");
+}
+
+
+.sumCount {
+	font-size: 38px;
+	font-family: "HYWenHei";
+	text-align:left;
+	color: #fff; 
+	/* float: right; */
+	width: 170px;
+	/* margin-top: 10px; */
+	
+}
+
+.right_model {
+	display: inline-block;
+	width: calc(50% - 135px);
+	padding: 80px 58px 45px;
+	float: left;
+}
+
+.uId {
+	text-align: center;
+	
+	text-align: center;
+	position:absolute;
+    top:860px;
+	left:750px;
+	width: 364px;
+	height: 50px;
+	line-height: 50px;
+	/* color: #a033c9; */
+	color: #fff;
+	
+	/* border: 1px solid #a033c9; */
+	font-size: 30px;
+	font-family: 'HYWenHei';
+}
+
+.head_image {
+	margin-top: 45px;
+}
+
+
+.icon img {
+	width: 78px;
+	height: 78px;
+}
+
+.text {
+	
+	
+	width: 300px;
+	font-size: 22px;
+	
+	/* color: #a9843f; */
+	position: absolute;
+	font-family: "MiSans-Medium";
+	padding-left:50px;
+	top: 20%;
+	margin-left: 30px;
+}
+
+
+
+.circleProgress_wrapper {
+	width: 64px;
+	height: 64px;
+	/* margin: 50px auto; */
+	position: relative;
+	display: inline-block;
+	/* border:1px solid #ddd; */
+}
+
+.wrapper {
+	width: 32px;
+	height: 64px;
+	position: absolute;
+	top: 0;
+	overflow: hidden;
+}
+
+.right {
+	right: 0;
+	/* border: solid 1px black; */
+}
+
+.left {
+	left: 0;
+	/* border: solid 1px red; */
+}
+
+.bottom_time {
+	
+	position:absolute;
+    width:10px;
+	display: block;
+	font-size: 20px;
+	color: #fff; 
+	font-family: "HYWenHei";
+	
+	width: 300px;
+	padding-top:100px;
+	left:1080px;
+	top:770px;
+	
+	
+}
+
+.bottom_image {
+	width: 212px;
+	height: 163px;
+	display: inline-block;
+
+}
+
+.list:nth-child(1){ 
+width: 800px;
+    display: inline-block;
+	position:absolute;
+    font-size: 25px;
+	color: #fff; 
+	font-family: "HYWenHei";
+	padding-left:100px;
+	padding-top:54px;
+	text-align:left;
+	top:60px;
+	left:760px;
+	
+	
+}
+.list:nth-child(2){ 
+    width: 300px;
+
+    display: inline-block;
+    font-size: 25px;
+	color: #fff; 
+	font-family: "HYWenHei";
+	padding-left:1110px;
+	padding-top:40px;
+	text-align:left;
+}
+.list:nth-child(4){ 
+   
+	display: inline-block;
+	position:absolute;
+    width: 1000px;
+	height: 1000px;
+    font-size: 25px;
+	color: #fff; 
+	font-family: "HYWenHei";
+	text-align:left;
+	top:270px;
+	left:1190px;
+	
+}
+
+.list:nth-child(3){ 
+   
+	display: inline-block;
+	position:absolute;
+    width: 1000px;
+	height: 1000px;
+    font-size: 25px;
+	color: #fff; 
+	font-family: "HYWenHei";
+	text-align:left;
+	top:270px;
+	left:860px;
+	
+}
+.list:nth-child(5){ 
+   
+	display: inline;
+	position:absolute;
+    width: 1000px;
+	height: 1000px;
+    font-size: 25px;
+	color: #fff; 
+	font-family: "HYWenHei";
+	text-align:left;
+	top:420px;
+	left:870px;
+	
+}
+
+
+.bottom_image img {
+	width: 100%;
+	height: 100%;
+}
+
+.jdt {
+	display: inline-flex;
+}
+
+.red {
+	/* color: #d9766c; */
+}
+
+.user_null {
+	vertical-align: middle;
+	display: inline-block;
+	position: absolute;
+	margin-left: -5px;
+	top: -3px;
+	left: 7px;
+}
