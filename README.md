@@ -53,5 +53,5 @@ Yunzai-Bot/plugins/xiaoyao-cvs-plugin/resources/dailyNote/Template
 
 #### 其他
 * 最后再求一个star~，您的支持是维护本项目的动力
-* 交流群号：920929297(已锁,如何进群请跳转[土块插件Earth-K-Plugin](https://gitee.com/SmallK111407/earth-k-plugin)自行研究)
+* 交流群号：475547382(已锁,如何进群请跳转[土块插件Earth-K-Plugin](https://gitee.com/SmallK111407/earth-k-plugin)自行研究)
 * 赞助支持：[爱发电](https://afdian.net/a/SunRyK)
