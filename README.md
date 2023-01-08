@@ -1,5 +1,10 @@
 # DailyNote Template image for xiaoyao-cvs-plugin
 
+[![访问量](https://visitor-badge.glitch.me/badge?page_id=SmallK111407.BJT-Template&right_color=red&left_text=访%20问%20量)](https://github.com/SmallK111407/BJT-Template)
+[![Stars](https://img.shields.io/github/stars/SmallK111407/BJT-Template?color=yellow&label=收藏)](../../stargazers)
+
+[![访问量](https://profile-counter.glitch.me/SmallK111407-BJT-Template/count.svg)](https://github.com/SmallK111407/BJT-Template)
+
 #### 用途介绍
 xiaoyao-cvs-plugin的体力背景图库
 
