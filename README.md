@@ -11,16 +11,17 @@ xiaoyao-cvs-plugin的体力背景图库
 ## 图库说明
 
 1. 此库提供由我本人(曉K)及其他人授权转载制作的背景图第二版，需搭配[xiaoyao-cvs-plugin](https://gitee.com/Ctrlcvs/xiaoyao-cvs-plugin)食用
-2. 目前库中:Template为'曉K'制作的背景图;Template2为'逍遥'制作的背景图;Template3为'地球生物'制作的背景图
+2. 目前库中:Template为`曉K`制作的背景图;Template2为`逍遥`制作的背景图;Template3为`地球生物`制作的背景图
 3. 可自行斟酌使用
 
 
 ## 食用方法
 
-### 方法一 - 自动拉取
+### 方法一 - 自动拉取 （推荐）
 
 1. 安装[xiaoyao-cvs-plugin](https://gitee.com/Ctrlcvs/xiaoyao-cvs-plugin)
-2. 加载插件，对机器人发送'#图鉴模板更新'，将自动拉取本仓库
+2. 加载插件，对机器人发送`#图鉴模板更新`，将自动拉取本仓库
+3. 后续也可以通过该命令更新模板
 
 ### 方法二 - 手动拉取
 
